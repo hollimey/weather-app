@@ -1,6 +1,8 @@
 # Graduate Capstone
 
-Independent research project focused around information architecture, inspired by the shortcomings of Apple and Samsung’s mobile weather apps, which include moon phases but omit ocean tidal information, requiring a separate web browser to look up high and low tide patterns. <br/><br/>
+Independent research project focused around information architecture, inspired by the shortcomings of Apple and Samsung’s mobile weather apps, which include data like moon phases but omit ocean tidal information, requiring a separate web browser to look up high and low tide patterns. <br/><br/>
+
+As a result, the project has worked to build a Python application to automate the integration and analysis of structured information by incorporating custom functions for JSON and CSV parsing and transformation, and customized output handling to support multiple access methods. 
 
 
 ## Background
